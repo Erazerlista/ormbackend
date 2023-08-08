@@ -22,7 +22,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Video
 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/fcade26c-bc7b-4bf5-y7ad-6a8e276b9999
+https://drive.google.com/file/d/1KVpoQyGRKLB2BRQXwqXwXjr_MTuXycrj/view
 
 # Git Hub
 
